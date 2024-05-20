@@ -1,0 +1,22 @@
+#div-div__minicard img{
+    width: 30%;
+    height: 100%;
+    margin-right: 10px;
+    border-radius: 15px;
+}
+
+#div-div__minicard {
+    padding: 10px;
+    margin: 3px;
+    height: 20%;
+    width: 100%;
+    background-color: rgb(90, 90, 90);
+    -webkit-box-shadow: 1px 1px 6px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 1px 6px 0px rgba(0,0,0,0.75);
+    box-shadow: 1px 1px 6px 0px rgba(0,0,0,0.75);
+    display: flex;
+    color: white;
+    text-align: justify;
+    font-size: .5em;
+    border-radius: 15px;
+}

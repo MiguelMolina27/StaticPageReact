@@ -1,0 +1,7 @@
+#div-div__miniCards {
+    display: flex;
+    width: 30%;
+    justify-content: center;
+    flex-direction: column;
+    justify-content: center;
+}

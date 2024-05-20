@@ -1,0 +1,31 @@
+#div-div__bigcard img{
+    width: 50%;
+    height: 100%;
+    margin: 10px;
+    
+}
+
+#div-div__bigcard {
+    margin: 3px;
+    color: white;
+    -webkit-box-shadow: 1px 1px 6px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 1px 6px 0px rgba(0,0,0,0.75);
+    box-shadow: 1px 1px 6px 0px rgba(0,0,0,0.75);
+    font-size: 1.5rem;
+    padding: 15px;
+    width: 50%;
+    min-height: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(50, 50, 50);
+}
+
+#div-div__bigcard h3 {
+    text-align: center;
+}
+
+#div-div__bigcard p {
+    text-align: justify;
+}
+
