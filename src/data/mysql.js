@@ -1,8 +1,8 @@
 const mysql = {
   cssDescription:
-    " CSS (Cascade Style Sheet). Básicamente, es un lenguaje que maneja el diseño y presentación de las páginas web, es decir, cómo lucen cuando un usuario las visita. Funciona junto con el lenguaje HTML que se encarga del contenido básico de los sitios.",
+    "CSS (Cascade Style Sheet). Básicamente, es un lenguaje que maneja el diseño y presentación de las páginas web, es decir, cómo lucen cuando un usuario las visita. Funciona junto con el lenguaje HTML que se encarga del contenido básico de los sitios.",
   jsDescription:
-    "JavaScript (JS) es un lenguaje de programación basado en navegador que permite a los desarrolladores hacer páginas web interactivas. JS es una de las tres principales tecnologías web, junto con HTML y CSS, y se utiliza para crear contenido dinámico, controlar multimedia, animar imágenes y más",
+    "JavaScript (JS) es un lenguaje de programación basado en navegador que permite a los desarrolladores hacer páginas web interactivas. JS es una de las tres principales tecnologías web, junto con HTML y CSS, y se utiliza para crear contenido dinámico, controlar multimedia, animar imágenes y más.",
   frameworksCss: [
     {
       name: "Bootstrap",
